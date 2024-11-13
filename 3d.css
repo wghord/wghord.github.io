@@ -1,0 +1,35 @@
+/*YOKOYAMA*/
+@charset "utf-8";
+
+html {
+    font-size: medium;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    font-family: "Helvetica Neue",
+        Arial,
+        "Hiragino Kaku Gothic ProN",
+        "Hiragino Sans",
+        Meiryo,
+        sans-serif;
+}
+
+model-viewer {
+    width: 100%;
+    height: 80vh;
+    border-style: solid;
+    background-color: azure;
+}
